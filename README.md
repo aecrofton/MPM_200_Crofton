@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+The first assignment looked at data from a rehabilitation center about hummingbird release/death based upon several covariates. One of the main features of the code is that it compares the number/proportion of hummingbirds released to the numbre/proportion of hummingbirds that died. The output of the code also creates summaries and plots of this data. Many of the features and packages came from tidyverse. Most importantly, the code serves as an instructional tool for us (as MPVM students) to learn how to use R.
 
 ## Project Organization
 ------------
